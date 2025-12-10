@@ -1,26 +1,28 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Akshay Mohate</h1>
-<h3 align="center">A passionate  java Backend developer from India</h3>
+<h3 align="center">A passionate  java Backend developer | Spring boot |REST API's</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaymohate&label=Profile%20views&color=0e75b6&style=flat" alt="akshaymohate" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **java Backend cource**
 
-- 👨‍💻 All of my projects are available at [https://mohateakshay9.wixsite.com](https://mohateakshay9.wixsite.com)
 
-- 📝 I regularly write articles on [https://medium.com/@mohateakshay9](https://medium.com/@mohateakshay9)
+- 🎯 Aspiring **Java Backend Developer** from India  
+- 🌱 Currently learning **Spring Boot, Microservices & AWS**
+- 💡 Strong in **Core Java, OOPs & Data Structures**
+
+
 
  
-- LinkedIn Id   [https://www.linkedin.com/in/mohate-akshay](https://www.linkedin.com/in/mohate-akshay)
+-  LinkedIn Id   [https://www.linkedin.com/in/mohate-akshay](https://www.linkedin.com/in/mohate-akshay)
   
 
 - 💬 Ask me about **mohateakshay9@gmail.com**
 
-- ⚡ Fun fact **I think I am funny😁😁😁**
+- ⚡ Fun fact **I Debug with patience  and coffee ☕☕ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
